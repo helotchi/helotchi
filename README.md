@@ -9,7 +9,7 @@
 
 <div style="display: flex margin: auto">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=helotchi&show_icons=true&theme=radical" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helotchi&layout=compact&theme=radical" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helotchi&layout=compact&theme=radical&langs_count=4" />
 </div>
 
 <div style="display: inline-bloc"><br>
