@@ -21,7 +21,3 @@
 </div>
 
 ##
-
-<div style="display: flex margin: auto">
-  ![Snake animation](https://github.com/helotchi/helotchi/blob/output/github-contribution-grid-snake.svg)
-</div>
