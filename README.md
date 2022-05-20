@@ -20,6 +20,6 @@
 
 ## 
 
-<div>
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline-block">
+   ![Snake animation](https://github.com/helotchi/helotchi/blob/output/github-contribution-grid-snake.svg)
 </div>
